@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>AI Search Chat with PDF Citation Viewer</title>
+  
 </head>
 <body>
 
